@@ -1,5 +1,5 @@
 {
-    "name": "angelxmoreno/cakephp-env-switcher",
+    "name": "angelxmoreno/env-switcher",
     "type": "cakephp-plugin",
     "description": "An environment switcher Plugin for CakePHP",
     "keywords": ["cakephp","environment","bootstrap"],
