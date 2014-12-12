@@ -1,5 +1,5 @@
 {
-    "name": "angelxmoreno/env-switcher",
+    "name": "angelxmoreno/cakephp-env-switcher",
     "type": "cakephp-plugin",
     "description": "An environment switcher Plugin for CakePHP",
     "keywords": ["cakephp","environment","bootstrap"],
@@ -13,5 +13,8 @@
     ],
     "require": {
         "composer/installers": "*"
+    },
+    "extra": {
+        "installer-name": "EnvSwitcher"
     }
 }
